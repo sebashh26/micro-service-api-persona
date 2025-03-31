@@ -1,3 +1,6 @@
 [submodule "api-persona"]
 	path = api-persona
 	url = https://github.com/sebashh26/api-persona-docker
+[submodule "api-preferencia"]
+	path = api-preferencia
+	url = https://github.com/sebashh26/api-preferencia-docker
